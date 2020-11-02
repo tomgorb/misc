@@ -15,7 +15,7 @@ miscellaneous python notebooks
 
 - **EDA**: Exploratory Data Analysis
 
-- **ELMs**: Extreme Learning Machines (*this is COOL!*)
+- **ELMs**: Extreme Learning Machines (*this is - really - COOL!*)
 
 - **hummingbird** xgboost example (convert a model to PyTorch)
 
@@ -30,3 +30,9 @@ miscellaneous python notebooks
 - **Sankey diagram**
 
 - **texthero** quickstart
+
+- **vaex** quickstart (Out-of-Core DataFrames)
+
+-----
+
+- **Find dominant color(s) in images**
