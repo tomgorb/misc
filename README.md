@@ -36,3 +36,5 @@ miscellaneous python notebooks
 -----
 
 - **Find dominant color(s) in images**
+
+- **Python closure**
