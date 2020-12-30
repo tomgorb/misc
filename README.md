@@ -1,6 +1,10 @@
 miscellaneous python notebooks
 -----
 
+- **A/B Testing: Bayesian vs Frequentist** (+ *Monte Carlo* integration)
+
+-----
+
 - **misc**: some data and python tips and random stuff
 
 - **Comprehensive Python Cheatsheet**
