@@ -3,6 +3,8 @@ miscellaneous python notebooks
 
 - **A/B Testing: Bayesian vs Frequentist** (+ *Monte Carlo* integration)
 
+- **map**: Creating Maps in python using Open Street Maps and NetworkX (OSMnx)
+
 -----
 
 - **misc**: some data and python tips and random stuff
