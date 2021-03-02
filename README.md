@@ -5,6 +5,8 @@ miscellaneous python notebooks
 
 - **map**: Creating Maps in python using Open Street Maps and NetworkX (OSMnx)
 
+- **Make GIFs Great Again!**
+
 -----
 
 - **misc**: some data and python tips and random stuff
