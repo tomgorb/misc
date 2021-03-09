@@ -7,6 +7,8 @@ miscellaneous python notebooks
 
 - **Make GIFs Great Again!**
 
+- **Maximum Gap**
+
 -----
 
 - **misc**: some data and python tips and random stuff
