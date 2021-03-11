@@ -9,6 +9,8 @@ miscellaneous python notebooks
 
 - **Maximum Gap**
 
+- **Streamlit App example**
+
 -----
 
 - **misc**: some data and python tips and random stuff
