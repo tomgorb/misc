@@ -3,50 +3,34 @@ miscellaneous python notebooks
 
 - **A/B Testing: Bayesian vs Frequentist** (+ *Monte Carlo* integration)
 
-- **map**: Creating Maps in python using Open Street Maps and NetworkX (OSMnx)
-
-- **Make GIFs Great Again!**
-
-- **Maximum Gap**
-
-- **Streamlit App example**
-
------
-
-- **misc**: some data and python tips and random stuff
-
-- **Comprehensive Python Cheatsheet**
-
-- **dash** quickstart
-
 - **Data Driven Attribution** using *Shapley value*
 
 - **data processing** using standard shell tools and commands
 
 - **dotPlot**: visualization of data using dots
 
+- **duckdb**: an in-process SQL OLAP database management system. Simple, feature-rich, fast & open source.
+
 - **EDA**: Exploratory Data Analysis
 
 - **ELMs**: Extreme Learning Machines (*this is - really - COOL!*)
 
-- **hummingbird** xgboost example (convert a model to PyTorch)
+- **Find dominant color(s) in images**
+
+- **Make GIFs Great Again!**
+
+- **Google APIs**: Gemini + Maps APIs
+
+- **map**: Creating Maps in python using Open Street Maps and NetworkX (OSMnx)
 
 - **MNIST - UMAP vs. t-SNE**: comparison (*computation time* and *quality*) of UMAP and t-SNE for dimensionality reduction and visualization
-
-- **pingouin** quickstart (statistical modeling)
-
-- **pipelines** quickstart (*scikit-learn* and *pandas*)
 
 - **pySpark** (mini) tutorial
 
 - **Sankey diagram**
 
-- **texthero** quickstart
-
-- **vaex** quickstart (Out-of-Core DataFrames)
-
 -----
 
-- **Find dominant color(s) in images**
+- **misc**: some Tips and Tricks
 
-- **Python closure**
+-----
