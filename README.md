@@ -21,6 +21,8 @@ miscellaneous python notebooks
 
 - **Google APIs**: Gemini + Maps APIs
 
+- **Great Tables**: Wonderful-looking tables in Python.
+
 - **map**: Creating Maps in python using Open Street Maps and NetworkX (OSMnx)
 
 - **MNIST - UMAP vs. t-SNE**: comparison (*computation time* and *quality*) of UMAP and t-SNE for dimensionality reduction and visualization
