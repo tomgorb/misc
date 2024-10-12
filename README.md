@@ -1,4 +1,4 @@
-miscellaneous python notebooks
+📓 miscellaneous python notebooks
 -----
 
 - **A/B Testing: Bayesian vs Frequentist** (+ *Monte Carlo* integration)
@@ -30,6 +30,8 @@ miscellaneous python notebooks
 - **pySpark** (mini) tutorial
 
 - **Sankey diagram**
+
+- **Window Functions**: SQL-Like Window functions in Pandas
 
 -----
 
