@@ -1,6 +1,14 @@
 📓 miscellaneous python notebooks
 -----
 
+- Computer vision
+
+  - **SAM**: *Segment Anything Model* (Meta AI)
+
+  - **YOLO**: *You Only Look Once* (ultralytics)
+
+-----
+
 - **A/B Testing: Bayesian vs Frequentist** (+ *Monte Carlo* integration)
 
 - **Data Driven Attribution** using *Shapley value*
