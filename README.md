@@ -1,6 +1,12 @@
 📓 miscellaneous python notebooks
 -----
 
+- Gen AI
+
+  - 🦜️🔗 **LangChain** starter kit
+
+-----
+
 - Computer vision
 
   - **SAM**: *Segment Anything Model* (Meta AI)
