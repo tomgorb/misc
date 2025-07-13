@@ -3,7 +3,7 @@
 
 - Gen AI
 
-  - 🦜️🔗 **LangChain** starter kit
+  - 🦜️🔗 **LangChain** + **LangGraph** starter kit
 
 -----
 
